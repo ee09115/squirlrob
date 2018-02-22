@@ -2,6 +2,11 @@
 
 ## Overview
 SquirRob is a 25 euros Android and Arduino based mobile robot for robotics education. The mechanical and electronic designs are provided and it is expected for the students to improve them. The android application uses the rear camera and implements some image processing modules allowing actions such as coloured line following, colour proximity detection and coloured object tracking.
+
+<p align="center">
+<img src="doc/squirlrob.gif">
+</p>
+
 ![chassis](doc/squirlrob.JPG)
 
 ## Electronic Parts List
